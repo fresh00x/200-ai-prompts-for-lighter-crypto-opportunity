@@ -1,6 +1,6 @@
 # 200 AI Prompts for Lighter Crypto Opportunity
 
-Unlock the full potential of your light crypto business with this curated collection of 200 AI-generated prompts tailored specifically for ChatGPT/Claude model. Designed to stimulate innovation and cr
+Unlock the full potential of your crypto business with these 200 carefully curated AI prompts! Perfect for entrepreneurs and professionals looking to capitalize on the lighter side of cryptocurrency. 
 
 ## Dataset Info
 
@@ -14,7 +14,7 @@ Unlock the full potential of your light crypto business with this curated collec
 ## Sample
 
 ```json
-"How can I create a user-friendly mobile app that caters to new crypto investors?"
+"..."
 ```
 
 ## Usage
